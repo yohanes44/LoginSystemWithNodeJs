@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yohanes44/LoginSystemWithNodeJs/issues"
   },
-  "homepage": "https://github.com/yohanes44/LoginSystemWithNodeJs#readme"
+  "homepage": "https://github.com/yohanes44/LoginSystemWithNodeJs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
 }
